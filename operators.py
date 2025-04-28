@@ -6,10 +6,10 @@ print(list)'''
 # Arithmetic Operators
 #Comparison Operators
 #Assignment Operators
-#Logical Operators
+#Logical Operators And ,Or, Not
 #Bitwise Operators
-#Membership Operators
-#Identity Operators   
+#Membership Operators In,Not In
+#Identity Operators   Is,Is not
 
 #1.Arithmetic Operators
 
@@ -27,7 +27,7 @@ print("Reminder of two numbers:",a%b)
 print("Exponent of Two Numbers:",a**b)
 
 '''
-
+'''
 #2. Comparison Operators
 
 a=77
@@ -37,5 +37,20 @@ print ("Two numbers are equal or not:",a==b)
 print ("Two numbers are not equal or not:",a!=b)
 print("a is less than b",a<=b)
 print("a is greater than b:",a>=b)
-print("a is less than b:",a<b)
+print("a is less than b:",a<b)python
 print("a is greater than b:",a>b)
+'''
+#Identity Operators
+
+a=4
+b=6
+
+if(a is b):
+  print("Both are equal")
+else:
+  print("Both are not Equal")
+
+if(a is not b):
+  print("Both are notequal")
+else:
+  print("Both are Equal")
