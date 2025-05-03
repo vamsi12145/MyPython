@@ -1,0 +1,2 @@
+Today I have learnt how to retrieve only one column from the tables.
+select coulumname from tablename.
