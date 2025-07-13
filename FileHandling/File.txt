@@ -1,0 +1,4 @@
+Welcome to Kanagudur
+r+-> open the file in read and write mode so here we can open the file in read mode and  we can write also.
+tell-> this function will tell us the position where we are exactly in the file.
+seek-> to move the pointer inside the fileWelcome to KanagudurWelcome to KanagudurWelcome to KanagudurWelcome to KanagudurWelcome to Kanagudur

@@ -1,0 +1,6 @@
+Hi Welcome to the file handling concepts.
+This is very useful in data engineer roles because as a  data engineer we have to deal with ingesting data from multiple sources sowe we have to deal with files.
+In this we have three modes
+r-> read
+w-> write
+a-> append(Writes at the end)
